@@ -1,0 +1,21 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "spark_disasters:alarm"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " A ",
+            "ABA",
+            " A "
+        ],
+        "key": {
+            "A": "minecraft:oak_planks",
+            "B": "minecraft:torch"
+        },
+        "result": "spark_disasters:alarm_block"
+    }
+}

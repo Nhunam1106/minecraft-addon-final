@@ -1,0 +1,39 @@
+{
+    "format_version": "1.22.10",
+    "minecraft:item": {
+      "description": {
+        "identifier": "spark_disasters:disaster_controller",
+        "menu_category": {
+          "category": "equipment",
+          "group": "itemGroup.name.hoe",
+          "is_hidden_in_commands": false
+        }
+      },
+      "components": {
+        "minecraft:icon": "spark_disasters_disaster_controller",
+        "minecraft:display_name": {
+          "value": "dich chuyen"
+        },
+        "minecraft:max_stack_size": 1,
+        "minecraft:use_modifiers": {
+          "use_duration": 9999999,
+          "movement_modifier": 1.0
+        },
+        "minecraft:cooldown": {
+          "category": "spark_disasters:disaster_controller",
+          "duration": 40
+        },
+        "minecraft:tags": {
+          "tags": [
+            "taq:hiehie",
+            "taq:noholding",
+            "op_asa:visible_arm"
+          ]
+        },
+        "minecraft:custom_components": [
+          "spark_disasters:trigger_acid_rain"
+        ],
+        "minecraft:should_despawn": false
+      }
+    }
+  }

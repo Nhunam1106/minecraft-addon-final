@@ -1,0 +1,1 @@
+{"format_version":"1.20.0","animations":{"animation.spark_disasters.meteor.timeline":{"animation_length":11,"timeline":{"10.0":["/function spark/disasters/m_s/explosion"],"10.1":["/event entity @s spark_disasters:despawn"]}}}}

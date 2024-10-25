@@ -1,0 +1,376 @@
+{
+  "version": 1,
+  "content": [
+    { "path": "manifest.json" },
+    {
+      "path": "animation_controllers/meteor.animation_controllers.json",
+      "key": "sE0olOT31Qa97eibxwItk5osr0U1XbnG"
+    },
+    {
+      "path": "blocks/alarm_block.block.json",
+      "key": "iZ7uX2NCYH1tdajUyBXOIaZ9PaogME1j"
+    },
+    {
+      "path": "animations/guide_book.animation.json",
+      "key": "hV8AMdbcTQ6TkfgX09GOGKuHSfHndn89"
+    },
+    {
+      "path": "animations/marker.animation.json",
+      "key": "sI0E59vzk6sPfzNaHW3yAdHrjsdGkISp"
+    },
+    {
+      "path": "animations/meteor.animation.json",
+      "key": "hT7wBPSggdUyJG3PFmEc70b6i1tfVSrP"
+    },
+    {
+      "path": "entities/acid_rain_emitter.behavior.json",
+      "key": "aK1FJ7WpnK1XEvN1Zv21masp1rdNNwUr"
+    },
+    {
+      "path": "entities/acid_rain_name.behaviour.json",
+      "key": "zB4RTV7tGgVplNmPExIk8CKLdVE9BpBg"
+    },
+    {
+      "path": "entities/alarm.behavior.json",
+      "key": "pW6Ali70aXvAyYNslJEY8ghKQJ7PSlKv"
+    },
+    {
+      "path": "entities/blizzard_emitter.behavior.json",
+      "key": "xV9pjn0WdEIGRCnSYnSAmSlvflzJ6G0m"
+    },
+    {
+      "path": "entities/chunk_loader.behavior.json",
+      "key": "yX99qpaB2LKTsj3aUrBzo6PICwvt2Hrj"
+    },
+    {
+      "path": "entities/earthquake_destruction.behavior.json",
+      "key": "rU7WUIRaEC9TvNp4i40juOi5XRbhWb3m"
+    },
+    {
+      "path": "entities/earthquake_env_debris.behavior.json",
+      "key": "aZ6LZ5oaq26Fe1XWcOfIB1bR1xLtjRUI"
+    },
+    {
+      "path": "entities/guide_book.behavior.json",
+      "key": "yI7r5oWnTQzab7n6nHcjSKUYz92o0FKj"
+    },
+    {
+      "path": "entities/marker.behavior.json",
+      "key": "kG2IihPWyssKsk7w33E9yLHWr4BWBd2o"
+    },
+    {
+      "path": "entities/meteor.behavior.json",
+      "key": "uE3dFJYbrKOqltAm5jyWQZOBMz67430C"
+    },
+    {
+      "path": "entities/sandstorm_name.behaviour.json",
+      "key": "fA66eHcK1yRG5LcPZ1zhBLEY5Q4hvywn"
+    },
+    {
+      "path": "entities/tornado.behavior.json",
+      "key": "oL44KXeH7RBKxsX0NHFhtRAA24sNFzCg"
+    },
+    {
+      "path": "items/disaster_controller.item.json",
+      "key": "kL2bInfduZCmtuAjX2FdgQdvPPtAZ2EU"
+    },
+    {
+      "path": "items/trigger_acid_rain.item.json",
+      "key": "pI9igm7Wz7PRxGYmHEJjM7Zmpv6TC1Oe"
+    },
+    {
+      "path": "items/trigger_blizzard.item.json",
+      "key": "iI1nJs7uH9ZZOJxtmOykdXOf6GfNJqlc"
+    },
+    {
+      "path": "items/trigger_earthquake.item.json",
+      "key": "eC6kZnxUm6L6zAiorKJRR83nPM9E8nsY"
+    },
+    {
+      "path": "items/trigger_meteor.item.json",
+      "key": "eX3gitbQ72EZuf7geORY9jqebum3pBxZ"
+    },
+    {
+      "path": "items/trigger_sandstorm.item.json",
+      "key": "kJ3CLuelRaX7rQcBkGjOuzit5KI9UJMS"
+    },
+    {
+      "path": "items/trigger_thunderstorm.item.json",
+      "key": "xH0WZTpcFGsVzZoYHU9HcEjrKfbMVkdk"
+    },
+    {
+      "path": "items/trigger_tornado.item.json",
+      "key": "eO0X5HyLsHKY9LGOBenYgLyc242b7XGK"
+    },
+    { "path": "scripts/DATA.js", "key": "bC8JPubvBuzohmXTP7AUNyqJ16g0itZz" },
+    { "path": "scripts/alarm.js", "key": "uV66JEVdIhG3YEX7owSLn16ahgEOlbg9" },
+    {
+      "path": "scripts/animatedBlock.js",
+      "key": "yI1IuiqzwUA3626g2ovExXp4IG46QFsy"
+    },
+    {
+      "path": "scripts/disaster.js",
+      "key": "hA5f3lnMrrhtMp6ieUwfPx92iX9PENwG"
+    },
+    {
+      "path": "scripts/fissureDebug.js",
+      "key": "dG2h6Ve8q7nUxi6iw4lURodOp56zaAjN"
+    },
+    { "path": "scripts/fog.js", "key": "yY0TiPXtbFJrZ57YZ5rNdFZmkCSgru8P" },
+    {
+      "path": "scripts/grouping.js",
+      "key": "nS13IT74898dFg7NSLI6cA7wqm2qt9yB"
+    },
+    {
+      "path": "scripts/guidebook.js",
+      "key": "cK0grtZQXV4YndZfosoPrC9udPgBrO72"
+    },
+    { "path": "scripts/main.js", "key": "fI65XRaVJebHzFcee1Vojxzd2MRuoqcA" },
+    {
+      "path": "scripts/soundConfig.js",
+      "key": "fX6LTBNJjyv2KVs1spPWXFvPzkhnP1GL"
+    },
+    { "path": "scripts/util.js", "key": "uU81JTTn0zpxjMVPsp8I77X4ddvFfYJY" },
+    { "path": "scripts/vector.js", "key": "aF4RJVY9lgALi0mFyahAdsEoV8x2otNB" },
+    {
+      "path": "blocks/block_mirror/burned_wood.block.json",
+      "key": "fG7Mjh7CnPPYOzAROjYQSSbzdNmostAW"
+    },
+    {
+      "path": "functions/spark/disasters/clean.mcfunction",
+      "key": "eE0FkqeeiavKkBQNF1LJtc7ZPBhNRSdG"
+    },
+    {
+      "path": "functions/spark/disasters/earthquake_crack.mcfunction",
+      "key": "sL7YNrRyTrm0Zkn9CFQ9XgyjNHGueYXH"
+    },
+    {
+      "path": "entities/tests/blizzard_tester.behavior.json",
+      "key": "gB22YiGxpxn10yIrdEWLvgKB5r4EbclN"
+    },
+    {
+      "path": "entities/tests/earthquake_tester.behavior.json",
+      "key": "hF6tFyKCN0XdH1PvIJ37HKzp5PVPzO8g"
+    },
+    {
+      "path": "entities/tests/rain_tester.behavior.json",
+      "key": "dK7qMIfZJtRF8UTF2RdrjEmIAqobJpFP"
+    },
+    {
+      "path": "entities/tests/sandstorm_tester.behavior.json",
+      "key": "oE5nHzjvW7iiyizaAHxknm9BZI2ScSob"
+    },
+    {
+      "path": "scripts/equake/earthquake.js",
+      "key": "qQ5AiS8omGpUrM8QtcN968JHLROaQNQV"
+    },
+    {
+      "path": "scripts/equake/fissure.js",
+      "key": "eA4Psbj34185J6LbfX8E65WuV7JqgWZe"
+    },
+    {
+      "path": "scripts/equake/fissureNew.js",
+      "key": "aQ9mBQSWem9dJExfkzugaHXf8U6l4u4H"
+    },
+    {
+      "path": "scripts/equake/spline.js",
+      "key": "tV7fTY9OdPaYqZYSWCicGbH483VM3Ww1"
+    },
+    {
+      "path": "scripts/func/acidRain.js",
+      "key": "jA3HZlmOuY8MlZFFRrezwl9dogpVEj9O"
+    },
+    {
+      "path": "scripts/func/blizzard.js",
+      "key": "yA7a5HGT485F9QLKXWOY84wfs0d6blww"
+    },
+    {
+      "path": "scripts/func/meteorShower.js",
+      "key": "lH2fWXa7tQX7nrveuMN5UZB3dexUGahl"
+    },
+    {
+      "path": "scripts/func/sandstorm.js",
+      "key": "kU3MrlR730p5hgMuJV02vl1dNBiE4aF7"
+    },
+    {
+      "path": "scripts/func/thunderstorm.js",
+      "key": "jS9hjqwhL1XiAmvB7HAZTcpFsuHsYv67"
+    },
+    {
+      "path": "scripts/func/tornado.js",
+      "key": "lR7IUWzM3I2vmhmvyLUsbZcgiNK2IMoh"
+    },
+    {
+      "path": "recipes/spark/disasters/acid_rain.recipe.json",
+      "key": "wV6PEF0IIcthhpVq4sQaJ8Sgwn9fFfWf"
+    },
+    {
+      "path": "recipes/spark/disasters/alarm.recipe.json",
+      "key": "hQ9SILpHLZ1xbZPNFQhEfSSU6mcpPgeq"
+    },
+    {
+      "path": "recipes/spark/disasters/blizzard.recipe.json",
+      "key": "qL9evIzTVCZMCvCjhMIFvgvTwuiWFPZc"
+    },
+    {
+      "path": "recipes/spark/disasters/disaster_controller.recipe.json",
+      "key": "iQ0urnqmV96bJydro7F1QRSeeSVHIAfh"
+    },
+    {
+      "path": "recipes/spark/disasters/earthquake.recipe.json",
+      "key": "mQ7oboOI00uyahJw6Ov9bxVTt3zmIsQ6"
+    },
+    {
+      "path": "recipes/spark/disasters/guide_book.recipe.json",
+      "key": "cO2QgnVPl1uMyOOI9tvrn7QRVNKIie6y"
+    },
+    {
+      "path": "recipes/spark/disasters/meteor_storm.recipe.json",
+      "key": "zL2eFM4ozk2CRlriGW6JaoyMEFwekUS2"
+    },
+    {
+      "path": "recipes/spark/disasters/sandstorm.recipe.json",
+      "key": "lL6vvFkf4VYj7Xsry5RdFJcsjnNBJZ8O"
+    },
+    {
+      "path": "recipes/spark/disasters/thunderstorm.recipe.json",
+      "key": "mL4h5CPBGEK4tz6sGm6hovpA19Iea63N"
+    },
+    {
+      "path": "recipes/spark/disasters/tornado.recipe.json",
+      "key": "sY6d8aMdF0LFfxbwb7yWHlCZJmtf12xq"
+    },
+    {
+      "path": "loot_tables/spark/disasters/generic/guidebook.json",
+      "key": "cX0xFZafJefahTY6FBBHE4pPZsZ15eQY"
+    },
+    {
+      "path": "structures/spark_disasters/f1_1.mcstructure",
+      "key": "uI3NEdagk5kJQaCG1QBRptIN3YKvUCB3"
+    },
+    {
+      "path": "structures/spark_disasters/f1_2.mcstructure",
+      "key": "aL285AKVZBO8xWKNifatj8o2z6RZ1yK9"
+    },
+    {
+      "path": "structures/spark_disasters/f1_3.mcstructure",
+      "key": "vU2bwJh1d3dNWYArl7YOz15A8sq4rqYa"
+    },
+    {
+      "path": "structures/spark_disasters/f1_4.mcstructure",
+      "key": "tR0gfV5HN65VCKA7HlBGGAdLMaptNbRv"
+    },
+    {
+      "path": "structures/spark_disasters/f1_5.mcstructure",
+      "key": "sO149VomrRkQH3qMPpWgeSXCWavI2fa1"
+    },
+    {
+      "path": "structures/spark_disasters/f3_1.mcstructure",
+      "key": "uZ7CMS2OUc6VMTfb7S853qzQCa7qYeVO"
+    },
+    {
+      "path": "structures/spark_disasters/f3_2.mcstructure",
+      "key": "jI7Omnqz0jnsqtH1XfstrFoUXVXbRmim"
+    },
+    {
+      "path": "structures/spark_disasters/f3_3.mcstructure",
+      "key": "fS2CQZEC5wEPRaiG0KRCJZsPc7dOhSGv"
+    },
+    {
+      "path": "structures/spark_disasters/f3_4.mcstructure",
+      "key": "dZ1vKqsovukloG2xHrqHctP4XUtKJM8o"
+    },
+    {
+      "path": "structures/spark_disasters/f3_5.mcstructure",
+      "key": "hO4ws2NvROqUwbk95tYbSe7WnSllVAgJ"
+    },
+    {
+      "path": "structures/spark_disasters/f5_1.mcstructure",
+      "key": "fS8HCsWr5rCpxxW6MYzd0cXU1I9xpb37"
+    },
+    {
+      "path": "structures/spark_disasters/f5_2.mcstructure",
+      "key": "iZ4Qz0YiLOXlug4GzOlpVlIK3eBnpe82"
+    },
+    {
+      "path": "structures/spark_disasters/f5_3.mcstructure",
+      "key": "sY2Pj2Fd3d73hLwSFAp77OCBZVCnfxFT"
+    },
+    {
+      "path": "structures/spark_disasters/f5_4.mcstructure",
+      "key": "pK11oqubcUP7tnytRyWpdWd6Z5FjSoqR"
+    },
+    {
+      "path": "structures/spark_disasters/f5_5.mcstructure",
+      "key": "sC5ow7iElvHMGuGVsvLo1LQTuikMV0az"
+    },
+    {
+      "path": "structures/spark_disasters/f7_1.mcstructure",
+      "key": "fW7kC80aBSLHN6oxZ873yFV0hnYEAK9q"
+    },
+    {
+      "path": "structures/spark_disasters/f7_2.mcstructure",
+      "key": "mK4INEyAMZ8Yhvy45xaxu3UF8IaUvlGL"
+    },
+    {
+      "path": "structures/spark_disasters/f7_3.mcstructure",
+      "key": "xL78MjS9CxdaU9Odb22Cug3e6larTkYR"
+    },
+    {
+      "path": "structures/spark_disasters/f7_4.mcstructure",
+      "key": "sX9ydzu2vTd8SNocd2RCfxdLWupKoIKA"
+    },
+    {
+      "path": "structures/spark_disasters/f7_5.mcstructure",
+      "key": "rB5UVjUIzOSNr5jFeQYhygjf5Sxg6QqI"
+    },
+    {
+      "path": "structures/spark_disasters/m1.mcstructure",
+      "key": "bR2HxPoP9OHjcLpCbVAn8fhC9kUhC1hO"
+    },
+    {
+      "path": "structures/spark_disasters/m2.mcstructure",
+      "key": "cB1cHyC6oh8E4flaiE5hzuYi7649OHPF"
+    },
+    {
+      "path": "structures/spark_disasters/m3.mcstructure",
+      "key": "oH0fbUyvJ0UUJ6cq3iK903CLmrMVhbmN"
+    },
+    {
+      "path": "structures/spark_disasters/m4.mcstructure",
+      "key": "pA9exLSFnRTWNdINUZVlt70JYIVJdn50"
+    },
+    {
+      "path": "structures/spark_disasters/m5.mcstructure",
+      "key": "hZ75ZyAq6j2JzMQakvQ6MRNtdPNbHaaj"
+    },
+    {
+      "path": "structures/spark_disasters/m6.mcstructure",
+      "key": "nS6gAtkkClghiVyop1B8ZFEHmmWqRFvO"
+    },
+    {
+      "path": "functions/spark/disasters/m_s/explosion.mcfunction",
+      "key": "lO384uPGZdBkawqZmVUMuy77Ni7o2lXN"
+    },
+    { "path": "texts/en_US.lang" },
+    { "path": "texts/languages.json" },
+    { "path": "pack_icon.png" },
+    { "path": "signatures.json", "key": "iL0hie4zW9W25QH1IO46knXCPs9hux6B" },
+    { "path": "animation_controllers/" },
+    { "path": "blocks/" },
+    { "path": "animations/" },
+    { "path": "entities/" },
+    { "path": "items/" },
+    { "path": "scripts/" },
+    { "path": "blocks/block_mirror/" },
+    { "path": "functions/spark/disasters/" },
+    { "path": "entities/tests/" },
+    { "path": "scripts/equake/" },
+    { "path": "scripts/func/" },
+    { "path": "recipes/spark/disasters/" },
+    { "path": "loot_tables/spark/disasters/generic/" },
+    { "path": "structures/spark_disasters/" },
+    { "path": "functions/spark/disasters/m_s/" },
+    { "path": "texts/" }
+  ]
+}

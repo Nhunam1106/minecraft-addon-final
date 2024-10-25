@@ -1,0 +1,1 @@
+{"format_version":"1.21.0","minecraft:recipe_shaped":{"description":{"identifier":"spark_disasters:blizzard"},"tags":["crafting_table"],"pattern":["AB"],"key":{"A":"minecraft:snowball","B":"spark_disasters:disaster_controller"},"result":"spark_disasters:trigger_blizzard"}}

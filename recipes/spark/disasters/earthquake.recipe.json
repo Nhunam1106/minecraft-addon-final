@@ -1,0 +1,19 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "spark_disasters:earthquake"
+      },
+      "tags": ["crafting_table"],
+      "pattern": [
+        " A ",
+        "ABA",
+        " A "
+      ],
+      "key": {
+        "A": "minecraft:golden_apple",
+        "B": "spark_disasters:guide_book_spawn_egg"
+      },
+      "result": "spark_disasters:trigger_earthquake"
+    }
+  }

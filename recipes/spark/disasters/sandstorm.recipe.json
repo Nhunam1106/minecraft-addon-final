@@ -1,0 +1,1 @@
+{"format_version":"1.20.0","minecraft:recipe_shaped":{"description":{"identifier":"spark_disasters:sandstorm"},"tags":["crafting_table"],"pattern":["AB"],"key":{"A":"minecraft:sand","B":"spark_disasters:disaster_controller"},"result":"spark_disasters:trigger_sandstorm"}}

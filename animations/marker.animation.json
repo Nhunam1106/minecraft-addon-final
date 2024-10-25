@@ -1,0 +1,1 @@
+{"format_version":"1.20.0","animations":{"animation.spark_disasters.marker.underground":{"animation_length":0.5,"timeline":{"0.0":["/say underground"],"0.4":["/event entity @s spark_disasters:despawn"]}},"animation.spark_disasters.biome_tester.underground":{"animation_length":0.5,"timeline":{"0.0":["/say blizzard"],"0.4":["/event entity @s spark_disasters:despawn"]}}}}

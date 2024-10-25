@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "spark_disasters:trigger_meteor",
+      "menu_category": {
+        "category": "items",
+        "is_hidden_in_commands": false
+      }
+		},
+    "components": {
+      "minecraft:icon":"spark_disasters_meteor_shower_item",
+      "minecraft:display_name":{
+        "value":"clear"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_animation":"eat",
+      "minecraft:food": {
+        "can_always_eat": true,
+        "nutrition": 0,
+        "saturation_modifier": 2.4
+      },
+      "minecraft:use_modifiers": {
+        "use_duration": 1,
+        "movement_modifier": 0.3
+      },
+      "minecraft:should_despawn":false
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.20.0","minecraft:recipe_shapeless":{"description":{"identifier":"spark_disasters:guide_book"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:book"},{"item":"spark_disasters:alarm_block"}],"result":{"item":"spark_disasters:guide_book_spawn_egg","count":1}}}

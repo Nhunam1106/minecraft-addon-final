@@ -1,0 +1,31 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Cover by DODIMINE",
+    "name": "OnepieceMonkeyD.Dragon v1",
+    "uuid": "78d5209b-30a7-4341-ac89-5693c5965afd",
+    "pack_scope": "world",
+    "version": [1, 0, 6],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1fcecfdc-844e-4a5e-af0c-8dc14a319080",
+      "version": [1, 0, 6]
+    },
+    {
+      "language": "javascript",
+      "type": "script",
+      "uuid": "c778ba83-e0ca-1124-f73b-4257567fbda1",
+      "version": [1, 0, 3],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": { "product_type": "addon" },
+  "dependencies": [
+    { "uuid": "8556fd95-2ee6-47e5-9ba2-0faeaf594d2e", "version": [1, 0, 6] },
+    { "module_name": "@minecraft/server", "version": "1.6.0" },
+    { "module_name": "@minecraft/server-ui", "version": "1.1.0" }
+  ]
+}

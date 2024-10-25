@@ -1,0 +1,38 @@
+{
+    "format_version": "1.21.10",
+    "minecraft:item": {
+      "description": {
+        "identifier": "spark_disasters:trigger_thunderstorm",
+        "menu_category": {
+          "category": "equipment",
+          "group": "itemGroup.name.hoe",
+          "is_hidden_in_commands": false
+        }
+      },
+      "components": {
+        "minecraft:icon": "spark_disasters_thunderstorm_item",
+        "minecraft:display_name": {
+          "value": "Kaminari"
+        },
+        "minecraft:max_stack_size": 1,
+        "minecraft:use_modifiers": {
+          "use_duration": 9999999,
+          "movement_modifier": 1.0
+        },
+        "minecraft:cooldown": {
+          "category": "spark_disasters:trigger_thunderstorm",
+          "duration": 10
+        },
+        "minecraft:tags": {
+          "tags": [
+            "taq:noholding",
+            "dodimine:visible_arm"
+          ]
+        },
+        "minecraft:custom_components": [
+          "spark_disasters:trigger_thunderstorm"
+        ],
+        "minecraft:should_despawn": false
+      }
+    }
+  }
